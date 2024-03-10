@@ -151,13 +151,3 @@ public class ClienteFTP {
         cliente.explorarYDescargar();
     }
 }
-
-## Evaluación y Observaciones
-
-- **Servidor FTP:** La configuración debe incluir una estructura de carpetas adecuada para las asignaturas de DAM y usuarios con acceso.
-- **Cliente FTP en Java:** Debe permitir la navegación por carpetas y la descarga de archivos, manejando correctamente errores y excepciones.
-
-### Documentación y Buenas Prácticas:
-
-- Asegúrate de que tu código esté bien comentado y siga las buenas prácticas de programación.
-- Proporciona documentación clara sobre cómo ejecutar tu servidor FTP y tu cliente FTP en Java.
